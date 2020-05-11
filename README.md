@@ -2,8 +2,6 @@
 
 A gRPC backend for [git-remote-grpc](https://github.com/asim/git-remote-grpc)
 
-Find the counter-part at [git-grpc-backend](https://github.com/asim/git-grpc-backend)
-
 ## License
 
 ```
